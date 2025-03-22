@@ -5,4 +5,4 @@
 - 💻 Code in **Bash** & **Python**
 - 🌐 Build web apps with **Vue.js** & **React.js**<br><br>
 - 💬 Ask me about automation & CI/CD! 🚀
-- 📫 How to reach me: [andrej@hanausek.dev](mailto:andrej@hanausek.dev)
+- 🎮 In my free time, I love gaming and working on game development projects
